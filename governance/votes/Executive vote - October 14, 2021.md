@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Test Executive Vote on BSC - Ocotber 14, 2021
+title: Template - [Executive Vote] Test Executive Vote on BSC - October 14, 2021
 summary: This is the first testing of the MOR governance on BSC.
 date: 2021-10-14T00:00:00.000Z
 address: "0x0000000000000000000000000000000000000000"
 
 ---
-# [Executive Proposal] Test Executive Vote on BSC - Ocotber 14, 2021
+# [Executive Proposal] Test Executive Vote on BSC - October 14, 2021
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
