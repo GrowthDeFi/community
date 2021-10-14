@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] $executive_title - $date_MONTH_DD,_YYYY
-summary: $summary
-date: $YYYY-MM-DDT00:00:00.000Z
-address: "$spell_address"
+title: Template - [Executive Vote] Test Executive Vote on BSC - Ocotber 14, 2021
+summary: This is the first testing of the MOR governance on BSC.
+date: 2021-10-14T00:00:00.000Z
+address: "0x0000000000000000000000000000000000000000"
 
 ---
-# [Executive Proposal] $executive_title - $date_MONTH_DD,_YYYY
+# [Executive Proposal] Test Executive Vote on BSC - Ocotber 14, 2021
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -16,14 +16,10 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 ## Executive Summary
 
 If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
-- $executive_action_description_1
-- $executive_action_description_2
-- $executive_action_description_3
+- None, this is just a test with a no-op Spell
 
 If this executive proposal passes, the following **additions** will be made to the Maker Protocol:
-- $executive_addition_1
-- $executive_addition_2
-- $executive_addition_3
+- None, this is just a test with a no-op Spell
 
 **Voting for this executive proposal will place your MKR in support of the changes and additions outlined above.**
 
@@ -37,17 +33,9 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ## Proposal Details
 
-### $executive_entry_1
+### Changes to be applied
 
-$executive_entry_description_1
-
-### $executive_entry_2
-
-$executive_entry_description_3
-
-### $executive_entry_3
-
-$executive_entry_description_3
+None, this is just a test with a no-op Spell.
 
 ## Review
 
