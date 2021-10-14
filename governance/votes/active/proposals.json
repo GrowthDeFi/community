@@ -1,4 +1,10 @@
 {
+  "mainnet": [
+  ],
+  "kovan": [
+  ],
+  "goerli": [
+  ],
   "bscmain": [
     "https://raw.githubusercontent.com/growthdefi/community/master/governance/votes/Executive%20vote%20-%20October%2014%2C%202021.md"
   ]
