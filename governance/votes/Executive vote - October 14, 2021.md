@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Test Executive Vote on BSC - October 14, 2021
 summary: This is the first testing of the MOR governance on BSC.
 date: 2021-10-14T00:00:00.000Z
-address: "$spell_address"
+address: "0x5559771B806099bBc65867b79F971a2601FedD04"
 
 ---
 # [Executive Proposal] Test Executive Vote on BSC - October 14, 2021
