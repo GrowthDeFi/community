@@ -57,6 +57,8 @@ This will decrease the liquidation ratio (mat) from 175% to 150% for the followi
 
 This will be performing a 50k MOR withdrawal of the system surplus to the GrowthDeFi multisig wallet.
 
+The MOR will be used to kickstart GRO/MOR and WHEAT/MOR liquidity before bonds are introduced.
+
 ### Instates a 24-hour mandatory delay to execute approved proposals
 
 The delay contract parameter will be modified from 0-hours to 24-hours. This effectivelly imposes a mandatory delay of 24-hours to execute future proposals approved by the governance.
