@@ -1,11 +1,11 @@
 ---
 title: Template - [Executive Vote] Protocol Change Proposal on BSC - November 14, 2021
-summary: $summary
+summary: First set of changes to MOR Protocol on BSC
 date: 2021-11-22T00:00:00.000Z
 address: "0x0000000000000000000000000000000000000000"
 
 ---
-# [Executive Proposal] $executive_title - $date_MONTH_DD,_YYYY
+# [Executive Proposal] Protocol Change Proposal on BSC - November 14, 2021
 
 GRO Holders should vote for this proposal if they support the following alterations to the MOR (BSC) Protocol.
 
