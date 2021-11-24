@@ -61,7 +61,7 @@ The MOR will be used to kickstart GRO/MOR and WHEAT/MOR liquidity before bonds a
 
 ### Instates a 24-hour mandatory delay to execute approved proposals
 
-The delay contract parameter will be modified from 0-hours to 24-hours. This effectivelly imposes a mandatory delay of 24-hours to execute future proposals approved by the governance.
+The delay contract parameter will be modified from 0-hours to 24-hours. This effectively imposes a mandatory delay of 24-hours to execute future proposals approved by the governance.
 
 ## Review
 
