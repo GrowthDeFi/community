@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Protocol Change Proposal on BSC - November 14, 2021
 summary: First set of changes to MOR Protocol on BSC
 date: 2021-11-22T00:00:00.000Z
-address: "0x9c3233F88A9C3E58fDf74282808af57D47aa6e68"
+address: "0x2A77cd9FE40A9C4Ac619404eA43Af249Cfeaa149"
 
 ---
 # [Executive Proposal] Protocol Change Proposal on BSC - November 22, 2021
