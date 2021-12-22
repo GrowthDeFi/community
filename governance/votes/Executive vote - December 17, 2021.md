@@ -19,14 +19,13 @@ If this executive proposal passes, the following **changes** will occur within t
 - Adjustments to the PSM fees, 0.3% tin and 0% tout, towards discontinuation
 - Changes the stability fee for AVAX/DAI to 5%/year
 - Surplus withdrawal of 142,491 MOR
-- Instates a 24-hour mandatory delay to execute approved proposals
 
 If this executive proposal passes, the following **additions** will be made to the MOR Protocol:
 - A new Curve-based PSM module to be introduced; it allows operations using DAI/USDC/USDT
 
 **Voting for this executive proposal will place your GRO in support of the changes and additions outlined above.**
 
-If this executive proposal passes, the changes and additions listed above will become active in the MOR (Avalanche) Protocol soon after it reaches the minimum quorum.
+If this executive proposal passes, the changes and additions listed above will only become active in the MOR (Avalanche) Protocol after the GSM Pause Delay has expired. The GSM Pause Delay is currently set to **24 hours**.
 
 If this executive proposal does not pass within 30 days, then it will expire and can no longer have any effect on the MOR (Avalanche) Protocol.
 
@@ -45,10 +44,6 @@ This will set the stability fee in 5%/year for STKTDJAVAXDAI-A.
 ### Surplus withdrawal of 142,491 MOR
 
 This will be performing a 142,491 MOR withdrawal of the system surplus to the GrowthDeFi multisig wallet.
-
-### Instates a 24-hour mandatory delay to execute approved proposals
-
-The delay contract parameter will be modified from 0-hours to 24-hours. This effectively imposes a mandatory delay of 24-hours to execute future proposals approved by the governance.
 
 ### A new Curve-based PSM module to be introduced
 
