@@ -5,7 +5,7 @@ date: 2021-12-17T00:00:00.000Z
 address: "0x0000000000000000000000000000000000000000"
 
 ---
-# [Executive Proposal] $executive_title - $date_MONTH_DD,_YYYY
+# [Executive Proposal] Protocol Change Proposal on Avalanche - December 17, 2021
 
 GRO Holders should vote for this proposal if they support the following alterations to the MOR (Avalanche) Protocol.
 
