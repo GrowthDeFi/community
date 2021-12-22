@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Protocol Change Proposal on Avalanche - December 17, 2021
 summary: First set of changes to MOR Protocol on Avalanche
 date: 2021-12-17T00:00:00.000Z
-address: "0x0000000000000000000000000000000000000000"
+address: "0xC8216C4ac63F3cAC4f7e74A82d2252B7658FA8b1"
 
 ---
 # [Executive Proposal] Protocol Change Proposal on Avalanche - December 17, 2021
