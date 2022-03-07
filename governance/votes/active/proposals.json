@@ -6,8 +6,11 @@
   "goerli": [
   ],
   "bscmain": [
+    "https://raw.githubusercontent.com/growthdefi/community/master/governance/votes/Executive%20vote%20-%20March%207%2C%202022.md"
   ],
   "avaxmain": [
-    "https://raw.githubusercontent.com/growthdefi/community/master/governance/votes/Executive%20vote%20-%20December%2017%2C%202021.md"
+    "https://raw.githubusercontent.com/growthdefi/community/master/governance/votes/Executive%20vote%20-%20March%204%2C%202022.md"
+  ],
+  "ftmmain": [
   ]
 }
