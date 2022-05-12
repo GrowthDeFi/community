@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Delisting of ILKs on Avalanche - May 12, 2022
 summary: Delisting of ILKs on Avalanche
 date: 2022-05-12T00:00:00.000Z
-address: "$spell_address"
+address: "0x8b96e64774a7003Cb8EA2fd07EEFA3f164065d59"
 
 ---
 # [Executive Proposal] Delisting of ILKs on Avalanche - May 12, 2022

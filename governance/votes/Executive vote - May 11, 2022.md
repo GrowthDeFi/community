@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Adjustment and delisting of ILKs on BSC - May 11, 2022
 summary: Adjustment and delisting of ILKs on BSC
 date: 2022-05-11T00:00:00.000Z
-address: "$spell_address"
+address: "0x405bB0e853E0034De0A52D7907fbe9Cd7e1B2d77"
 
 ---
 # [Executive Proposal] Adjustment and delisting of ILKs on BSC - May 11, 2022
