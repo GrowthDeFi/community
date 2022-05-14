@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Inclusion of a new set of ILKs on Fantom - May 5, 2022
 summary: Inclusion of a new set of ILKs on Fantom
 date: 2022-05-05T00:00:00.000Z
-address: "$spell_address"
+address: "0xACBF4f2d7F5A75329CBc0989627b5E80Dc8DfAf0"
 
 ---
 # [Executive Proposal] Inclusion of a new set of ILKs on Fantom - May 5, 2022
