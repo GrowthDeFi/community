@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Inclusion of a new set of ILKs on Fantom - May 5, 2022
 summary: Inclusion of a new set of ILKs on Fantom
 date: 2022-05-05T00:00:00.000Z
-address: "0xACBF4f2d7F5A75329CBc0989627b5E80Dc8DfAf0"
+address: "0x1774ec45692Db2CD589cb54068A070932b00c21D"
 
 ---
 # [Executive Proposal] Inclusion of a new set of ILKs on Fantom - May 5, 2022
@@ -33,8 +33,6 @@ If this executive proposal does not pass within 30 days, then it will expire and
 We are adding a new list of ILKs:
 - STKXBOO-A
 - STKSPOFTMBOOV2-A
-- STKSPOUSDCDEI-A
-- STKSPOFTMDEUS-A
 - CLQDR-A
 - SLINSPIRIT-A
 
